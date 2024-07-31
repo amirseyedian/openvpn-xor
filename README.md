@@ -12,7 +12,7 @@ this is not the officially maintained openvpn package!
 ### Install Dependencies
 
 
-`sudo apt install build-essential libssl-dev iproute2 liblz4-dev liblzo2-dev libpam0g-dev libpkcs11-helper1-dev libsystemd-dev resolvconf pkg-config autoconf automake libtool -y `
+`sudo apt install build-essential libssl-dev iproute2 liblz4-dev liblzo2-dev libpam0g-dev libpkcs11-helper1-dev libsystemd-dev resolvconf pkg-config autoconf automake libtool libcap-ng-dev libnl-genl-3-dev -y `
 
 ### Configure installer
 
